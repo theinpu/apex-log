@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/apex/log"
-	"github.com/apex/log/handlers/memory"
+	"github.com/theinpu/apex-log"
+	"github.com/theinpu/apex-log/handlers/memory"
 	"github.com/stretchr/testify/assert"
 )
 

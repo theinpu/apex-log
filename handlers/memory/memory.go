@@ -5,7 +5,7 @@ package memory
 import (
 	"sync"
 
-	"github.com/apex/log"
+	"github.com/theinpu/apex-log"
 )
 
 // Handler implementation.

@@ -1,7 +1,7 @@
 // Package level implements a level filter handler.
 package level
 
-import "github.com/apex/log"
+import "github.com/theinpu/apex-log"
 
 // Handler implementation.
 type Handler struct {
